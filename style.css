@@ -1,0 +1,12 @@
+.tasklist {
+  padding-top: 2em;
+}
+
+.task.done {
+  background-color: lightgreen;
+
+}
+
+.task.todo {
+  background-color: lightgoldenrodyellow;
+}
